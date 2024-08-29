@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **adarshsinggh1262@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1RWMTZeoWJaTq9QtcdzLXqekZhY9KjJ3P](https://drive.google.com/drive/u/0/folders/1RWMTZeoWJaTq9QtcdzLXqekZhY9KjJ3P)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/11UXTnHFzoAbJzem4h930deBSbOJUYO6N/view?usp=sharing)
 
 - ⚡ Fun fact **I think I'm a good observer.**
 
