@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/adarshs47422448" target="blank"><img src="https://img.shields.io/twitter/follow/adarshs47422448?logo=twitter&style=for-the-badge" alt="adarshs47422448" /></a> </p>
 
-- 🔭 I’m currently working on **healthApp**
+- 🔭 I’m currently working on **NEW-EDUCATION-ERA-PROJECT**
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **NEXT.JS**
 
-- 💬 Ask me about **React, cpp**
+- 💬 Ask me about **React, cpp, NodeJs, Express**
 
 - 📫 How to reach me **adarshsinggh1262@gmail.com**
 
