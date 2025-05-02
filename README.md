@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **NEXT.JS**
 
-- 💬 Ask me about **React, cpp, NodeJs, Express**
+- 💬 Ask me about **React, cpp, NodeJs, Express, MongoDB, Postgres, Python, Flask**
 
 - 📫 How to reach me **adarshsinggh1262@gmail.com**
 
