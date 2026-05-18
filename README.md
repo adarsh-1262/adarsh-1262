@@ -2,7 +2,7 @@
 <h1 align="center">Adarsh Singh 🚀</h1>
 
 <p align="center">
-  <b>Full Stack Engineer • Product Builder • Founder @ ASGC Labs</b>
+  <b>Full Stack Engineer • Product Builder • Founding Engineer @ ASGC Labs</b>
 </p>
 
 <p align="center">
